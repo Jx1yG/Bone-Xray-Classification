@@ -69,8 +69,8 @@ Once you have set up the dataset, you can run the following commands to train th
 
 ## Results
 The model achieved the following performance metrics:
-- **Abnormality Detection**: 87.2% accuracy, 83% precision, 85% recall
-- **Body Part Classification**: 82.6% accuracy, 80% precision
+- **Abnormality Detection**: 
+- **Body Part Classification**: 
 
 The training and validation accuracy curves and confusion matrices for both tasks are shown in the `results/` folder.
 
