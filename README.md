@@ -64,7 +64,7 @@ Once you have set up the dataset, you can run the following commands to train th
 3. **model architecture**:
    Once training is complete, evaluate the model using:
    ```bash
-   python src/model_architecture.py
+   python model_architecture.py
    ```
 
 ## Results
