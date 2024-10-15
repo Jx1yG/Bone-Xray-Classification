@@ -52,19 +52,19 @@ Once you have set up the dataset, you can run the following commands to train th
 1. **Preprocess the dataset**:
    Resize images and normalize pixel values:
    ```bash
-   python src/preprocess_data.py
+   python data_processing.py
    ```
 
 2. **Train the model**:
    To train the model, use the following command:
    ```bash
-   python src/train_model.py
+   python train_model.py
    ```
 
-3. **Evaluate the model**:
+3. **model architecture**:
    Once training is complete, evaluate the model using:
    ```bash
-   python src/evaluate_model.py
+   python src/model_architecture.py
    ```
 
 ## Results
